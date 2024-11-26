@@ -1,5 +1,5 @@
 import React from 'react'
-import Countdown from '../../client/src/components/Countdown/index'
+import Countdown from '../../activity-4-mod-20/client/src/components/Countdown/index'
 
 describe('<Countdown />', () => {
   it('should initially render with a maximum of 9 guesses', () => {

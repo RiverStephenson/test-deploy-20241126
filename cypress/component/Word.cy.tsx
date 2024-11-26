@@ -1,5 +1,5 @@
 import React from 'react'
-import Word from '../../client/src/components/Word/index'
+import Word from '../../activity-4-mod-20/client/src/components/Word/index'
 import { mockState } from '../support/utils/helpers'
 import '@testing-library/cypress/add-commands'
 

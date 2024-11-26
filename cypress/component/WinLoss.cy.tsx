@@ -1,5 +1,5 @@
 import React from 'react'
-import WinLoss from '../../client/src/components/WinLoss/index'
+import WinLoss from '../../activity-4-mod-20/client/src/components/WinLoss/index'
 import mockWord from '../fixtures/mockWord.json'
 
 describe('<WinLoss />', () => {

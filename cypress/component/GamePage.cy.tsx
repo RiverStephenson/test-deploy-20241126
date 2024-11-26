@@ -1,7 +1,7 @@
 // cypress/component/Game.cy.tsx
 
 import React from 'react';
-import GamePage from '../../client/src/pages/Game'; // Adjust the import path as necessary
+import GamePage from '../../activity-4-mod-20/client/src/pages/Game'; // Adjust the import path as necessary
 import { mount } from 'cypress/react18';
 import { mockState } from '../support/utils/helpers';
 import '@testing-library/cypress/add-commands';

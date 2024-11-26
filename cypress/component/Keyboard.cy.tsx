@@ -1,5 +1,5 @@
 import React from 'react'
-import Keyboard from '../../client/src/components/Keyboard/index'
+import Keyboard from '../../activity-4-mod-20/client/src/components/Keyboard/index'
 import KEYS from '../fixtures/keys.json'
 
 describe('<Keyboard />', () => {
